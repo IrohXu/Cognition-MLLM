@@ -1,7 +1,0 @@
-{
-    "xxx.jpeg": "Several sentences in the same line to describe this image.",
-    "xxx.jpeg": "Several sentences in the same line to describe this image.",
-    "xxx.jpeg": "Several sentences in the same line to describe this image.",
-    "xxx.jpeg": "Several sentences in the same line to describe this image."
-}
-
